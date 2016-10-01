@@ -1,2 +1,2 @@
 # hello-world
-another one
+This program does X and will do Y.  It requires Z to compile.
